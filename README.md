@@ -1,5 +1,6 @@
 
 # Anomaly Detection in Voice Conversations
+IEEE publication link : https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Anomaly%20detection%20Akilandeswari
 
 Anomaly detection in voice conversations involve detection of unusual patterns,
 behavioral patterns and voice noise, anomaly points using statistical methods in an audio that
@@ -14,9 +15,9 @@ patterns
 
 
 ## Authors
-
-- [@Navuluri Balaji](https://github.com/NavuluriBalaji)
-- [@Nithish Paidimarri](https://github.com/Nithish-456)
+- [Navuluri Balaji](https://github.com/NavuluriBalaji)
+- [NeerajYadavGosu](https://github.com/NeerajYadav)
+- [Nithish Paidimarri](https://github.com/Nithish-456)
 
 
 ## How To use
@@ -59,5 +60,5 @@ Start the server
 
 ## Support
 
-For support, email Navuluribalaji03@gmail.com, nithishpaidimarri@gmail.com
+For support, email Navuluribalaji03@gmail.com, neerajyadavgosu@gmail.com ,nithishpaidimarri@gmail.com
 
